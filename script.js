@@ -11,6 +11,6 @@ function toggleMode() {
       img.setAttribute("src", "./midía/perfil-light.png")
     } else {
       // set tiver sem light mode, manter a imagem normal
-      img.setAttribute("src", "./midía/perfil.png")
+      img.setAttribute("src", "./midía/Perfil.png")
     }
   }
