@@ -170,7 +170,7 @@
   /* media queries */
   @media (min-width: 700px) {
     :root {
-      --bg-url: url(./midía/Azul\ Elétrico.jpg);
+      --bg-url: url(./midía/bg-desktop.jpg);
     }
   
     .light {
